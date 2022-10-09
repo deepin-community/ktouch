@@ -1,0 +1,3 @@
+# manpages are compressed
+./usr/share/man/man1/ktouch.1
+./usr/share/man/*/man1/ktouch.1
